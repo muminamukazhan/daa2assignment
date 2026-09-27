@@ -1,6 +1,8 @@
-Assignment 2 — Algorithmic Analysis, Correctness and Performance Trade-offs
-Student: Mumina Mukazhan
-Group: SE-2530
+##Assignment 2 — Algorithmic Analysis, Correctness and Performance Trade-offs
+
+##Student: Mumina Mukazhan
+##Group: SE-2530
+
 Overview
 This project implements and analyzes three fundamental data structures in Java:
 Dynamic Array
